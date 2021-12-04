@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<library>
+	<technical_books>
+		<book isbn="984-019293213">
+			<title>Web Design</title>
+			<author>Amanda Clarke</author>
+		</book>
+		<book isbn="785-348592776">
+			<title>Civil Engineering Projects</title>
+			<author>Paul Hanley</author>
+		</book>			
+	</technical_books>
+	<cookery_books>
+		<book isbn="452-295838765">
+			<title>Greek Cuisine</title>
+			<author>George Kakazanis</author>
+		</book>
+		<book isbn="945-092361243">
+			<title>Delightful Moroccan Dishes and Where to Find Them</title>
+			<author>Mourad Lahlou</author>
+		</book>			
+	</cookery_books>
+</library>
